@@ -23,3 +23,11 @@ npm run build
 ```
 
 The bundled code will be output to the `/dist` directory.
+
+To deploy to Github Pages run:
+
+```
+npm run deploy
+```
+
+[View Live Demo](https://mixedreality.mozilla.org/ecsy-webpack-boilerplate/)
